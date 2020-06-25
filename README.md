@@ -1,6 +1,7 @@
 # RBTree
 
-Method and solutions: I use a structure to write the tree and a class to write all the functions,<br>
+## Method and solutions: 
+I use a structure to write the tree and a class to write all the functions,<br>
 including inorderoutput , `delete`(binary search tree delete method, which has 3 cases), <br>
 `deletefixup` (in order to fix up after the binary search tree delete method to deal <br>
 with the properties in red black tree, which has four cases), `insert`<br>
